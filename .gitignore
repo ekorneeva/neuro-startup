@@ -12,6 +12,7 @@
 *.rar
 *_old
 *_backup
-*tmp/bootstrap-4.1.3-dist.zip
+*git status
+*/tmp/bootstrap-4.1.3-dist.zip
 *Thumbs.db
 *.DS_Store
